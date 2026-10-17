@@ -1,0 +1,8 @@
+{
+  "name": "PayBox Logistics Plugin Studio",
+  "description": "Development workspace, live simulator, conformance tester, and artifact exporter for PayBox Physical World & Local Logistics MCP plugins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

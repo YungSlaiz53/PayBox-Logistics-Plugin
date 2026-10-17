@@ -1,0 +1,9 @@
+{
+  "tool": "quote_delivery",
+  "arguments": {
+    "pickupAddress": "100 Broadway, New York, NY 10005",
+    "dropoffAddress": "450 Lexington Ave, New York, NY 10017",
+    "packageTier": "medium_box",
+    "urgency": "rush_1hr"
+  }
+}
